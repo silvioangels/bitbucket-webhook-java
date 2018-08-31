@@ -1,0 +1,8 @@
+;; .hgeol
+
+[patterns]
+
+**.png = BIN
+
+;; The default is set to native.  This MUST be the last pattern.
+** = native
